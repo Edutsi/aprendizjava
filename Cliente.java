@@ -5,7 +5,9 @@ public class Cliente {
 	private String nome;
 	private String telefone;
 	private String email;
-	private double troco;
+	/*tirei a var troco para teste curso de GIT*/
+	private String teste;///exer git
+	///private double troco;
 	private double quantiaPaga;
 	
 	//conceito de Composição , todo cliente tem um pet.
